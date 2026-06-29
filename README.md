@@ -48,34 +48,6 @@ I work across both backend and frontend, taking ownership of features from datab
 
 ---
 
-## 💼 Experience
-
-### Senior Full Stack Developer  
-**Insiders** · Full-time  
-**Jan 2023 – Apr 2026**
-
-Built and maintained full-stack web applications using Python, Django, and FastAPI on the backend, and React, TypeScript, and Next.js on the frontend.
-
-- Designed and developed REST APIs
-- Managed PostgreSQL databases
-- Containerized services with Docker
-- Delivered features end-to-end in a remote team environment
-- Worked on scalable, maintainable, and production-ready web applications
-
-### Full Stack Developer  
-**ELEKS** · Full-time  
-**Jan 2020 – Dec 2022**
-
-Developed web applications with Python/Django backend and React/JavaScript frontend.
-
-- Built REST APIs
-- Worked with PostgreSQL and SQLite databases
-- Collaborated with remote cross-functional teams
-- Developed reusable frontend components
-- Supported and improved existing applications
-
----
-
 ## 🚀 What I Usually Work On
 
 - Full-stack web applications
@@ -90,28 +62,9 @@ Developed web applications with Python/Django backend and React/JavaScript front
 
 ---
 
-## 📌 Currently Open To
-
-I'm currently open to remote opportunities as a:
-
-- Full-Stack Developer
-- Backend Developer
-- Frontend Developer
-
-Preferred format: full-time or contract with EU / USA-based teams.
-
----
-
 ## 📫 Contact
 
-- LinkedIn: [Add your LinkedIn link here]
-- Email: [Add your email here]
+- LinkedIn: https://www.linkedin.com/in/oles-fullstack/
+- Email: olesolknovyy@ukr.net
 - Location: Lviv region, Ukraine
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
